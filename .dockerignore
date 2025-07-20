@@ -1,0 +1,14 @@
+.git
+.gitignore
+README.md
+plan.md
+__pycache__
+*.pyc
+.env.example
+articles/
+.pytest_cache
+*.log
+.vscode/
+.idea/
+*.tmp
+*.temp
