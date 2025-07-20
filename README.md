@@ -76,10 +76,9 @@ optibot-task/
 ├── main.py                 # Main orchestration script
 ├── scraper.py             # Article fetching and delta detection
 ├── uploader.py            # OpenAI vector store management
+├── cleanup.py            # Clean OpenAI storage files and vector store
 ├── requirements.txt       # Python dependencies
 ├── Dockerfile            # Container configuration
-├── docker-compose.yml    # Docker Compose setup
-├── app.yaml             # DigitalOcean App Platform config
 ├── .env.example         # Environment template
 ├── .dockerignore       # Docker ignore rules
 ├── data/               # State files and data
